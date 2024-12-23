@@ -3,7 +3,7 @@ name: "✅ Default"
 about: Feature 기본 템플릿
 title: "\U0001F680 [Feature]"
 labels: "\U0001F680 feat"
-assignees: jungkyuYang
+assignees: ''
 
 ---
 
