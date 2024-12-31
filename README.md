@@ -1,11 +1,31 @@
 # TEAM3 - 펄스(PULSE)💗
 
-## 📖 스마트 독서 기록 웹앱 (24.12.23~24.12.31) 🔗 [배포 주소](https://github.com/Dev-FE-3/team3-pulse-smartreader)
+## 📖 BookSync(북씽크) (24.12.23~24.12.31) 🔗 [배포 주소](https://github.com/Dev-FE-3/team3-pulse-smartreader)
 
 - 이 서비스는 사용자가 독서 기록을 체계적으로 관리하고, 독서 습관을 분석하여 지속적으로 독서를 이어갈 수 있도록 지원하는 기능을 제공합니다. 사용자는 읽은 책을 기록하고, 독서 통계를 시각화된 차트로 확인하며, 맞춤형 책 추천을 받을 수 있습니다. 또한 친구 추가와 채팅 기능을 통해 독서 경험을 공유하고, 책에 대해 소통할 수 있는 커뮤니티를 제공합니다. 특히 독서 데이터와 책 간의 관계를 시각적으로 표현하기 위해 네트워크 그래프를 활용하여 사용자에게 심층적인 통찰을 제공합니다.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/615329eb-9d19-417d-b81d-8343f78a4799" alt="image" width="75%" height="700">
+<img src="https://github.com/user-attachments/assets/d06d73a1-9d22-4e2c-b772-020d550bae95" alt="image" width="75%" height="700">
+</div>
+
+&nbsp;
+
+## ✨ Preview
+
+<div align=center>
+
+| <img src="https://github.com/user-attachments/assets/a6cd733d-4c67-41e1-87d7-650b8d3de2b7" width="300" height="400"/> | <img src="https://github.com/user-attachments/assets/67833667-20fc-4bb6-985f-573688fc18e7" width="300" height="400"/> | <img src="https://github.com/user-attachments/assets/7b46d01a-a794-4c3d-a5a2-c767eaef5d24" width="300" height="400"/> |
+| :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+|                                                      [로딩 화면]                                                      |                                                     [로그인 화면]                                                     |                                                   [마이페이지 화면]                                                   |
+
+</div>
+
+<div align=center>
+
+| <img src="https://github.com/user-attachments/assets/12d11d99-9145-49cf-91a8-999846847817" width="300" height="400"/> | <img src="https://github.com/user-attachments/assets/0193364b-17bf-46c9-a654-7d4a3e115b74" width="300" height="400"/> | <img src="https://github.com/user-attachments/assets/381c9de4-9cf6-4a05-ba66-a1bdbebd6b2f" width="300" height="400"/> |
+| :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+|                                                   [독서 통계 화면]                                                    |                                                   [추천 도서 화면]                                                    |                                                      [채팅 화면]                                                      |
+
 </div>
 
 &nbsp;
